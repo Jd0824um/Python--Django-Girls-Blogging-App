@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f191242-d232-4122-9b6e-f7ce60d47cd0" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/blog/static/css/blog.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/blog/templates/blog/base.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/blog/templates/blog/post_detail.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/blog/templates/blog/post_list.html" afterPath="$PROJECT_DIR$/blog/templates/blog/post_list.html" />
-      <change beforePath="$PROJECT_DIR$/blog/urls.py" afterPath="$PROJECT_DIR$/blog/urls.py" />
-      <change beforePath="$PROJECT_DIR$/blog/views.py" afterPath="$PROJECT_DIR$/blog/views.py" />
-      <change beforePath="$PROJECT_DIR$/mysite/settings.py" afterPath="$PROJECT_DIR$/mysite/settings.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -280,7 +273,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522018452045</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added view and template for detailed blog post as well as CSS for the site.">
+      <created>1522025094997</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1522025094997</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -318,7 +318,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Changed the HTML for the site." />
     <MESSAGE value="Modified templates to display posts from database." />
-    <option name="LAST_COMMIT_MESSAGE" value="Modified templates to display posts from database." />
+    <MESSAGE value="Added view and template for detailed blog post as well as CSS for the site." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added view and template for detailed blog post as well as CSS for the site." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
